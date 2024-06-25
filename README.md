@@ -17,11 +17,15 @@
 
 jre:
 
-```sudo apt install default-jre```
+```
+sudo apt install default-jre
+```
 
 jdk:
 
-```sudo apt install default-jdk```
+```
+sudo apt install default-jdk
+```
 
 * Para as variáveis de ambiente:
 
@@ -53,21 +57,29 @@ export PATH=$ANDROID_HOME/cmdline-tools/tools/bin:$PATH
 
 * Depois disso salve o arquivo correntamente seguindo os padroes do nano(ctrl + o, enter, ctrl + x). Após fechar o arquivo rode:
 
-```source ~/.bashrc```
+```
+source ~/.bashrc
+```
 
 * Agora é possivel usar comandos de cmd do android no terminal, ent execute os seguintes comandos:
 
 update:
 
-```sdkmanager --update```
+```
+sdkmanager --update
+```
 
 install packages:
 
-```sdkmanager "build-tools;30.0.3" "platform-tools" "platforms;android-30" "tools"```
+```
+sdkmanager "build-tools;30.0.3" "platform-tools" "platforms;android-30" "tools"
+```
 
 licenses:
 
-```sdkmanager --licenses```
+```
+sdkmanager --licenses
+```
 
 * No ultimo comando é necessário aceitar todos os termos.
 
