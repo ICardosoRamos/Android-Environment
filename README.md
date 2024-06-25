@@ -16,9 +16,11 @@
 * Instale o JAVA:
 
 jre:
+
 ```sudo apt install default-jre```
 
 jdk:
+
 ```sudo apt install default-jdk```
 
 * Para as variáveis de ambiente:
