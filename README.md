@@ -1,4 +1,4 @@
-# Android-Environment
+# Android-Environment-Ubuntu
 
 ## This is a step-by-step of how to configure an android environment
 
