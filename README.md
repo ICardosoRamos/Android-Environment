@@ -15,7 +15,10 @@
 
 * Instale o JAVA:
 
+jre:
 ```sudo apt install default-jre```
+
+jdk:
 ```sudo apt install default-jdk```
 
 * Para as variáveis de ambiente:
@@ -52,8 +55,13 @@ export PATH=$ANDROID_HOME/cmdline-tools/tools/bin:$PATH
 
 * Agora é possivel usar comandos de cmd do android no terminal, ent execute os seguintes comandos:
 
+update:
 ```sdkmanager --update```
+
+install packages:
 ```sdkmanager "build-tools;30.0.3" "platform-tools" "platforms;android-30" "tools"```
+
+licenses:
 ```sdkmanager --licenses```
 
 * No ultimo comando é necessário aceitar todos os termos.
