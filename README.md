@@ -83,4 +83,4 @@ sdkmanager --licenses
 
 * No ultimo comando é necessário aceitar todos os termos.
 
-## Feito, após isso voce já pode redirecionar seu app expo apertando a letra a dentro do servidor expo criado com "npx expo start" para dentro de um emulador instalado, pode ser genymotion ou qualquer um outro.
+### Feito, após isso voce já pode redirecionar seu app expo apertando a letra a dentro do servidor expo criado com "npx expo start" para dentro de um emulador instalado, pode ser genymotion ou qualquer um outro.
