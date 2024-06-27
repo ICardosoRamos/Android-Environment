@@ -31,7 +31,7 @@ sudo apt install default-jdk
 
 * Para JAVA_HOME, procure o diretório do java(geralmente a pasta jvm em /usr/lib/jvm), copie o caminho até esta pasta colocando um / no final e escrevendo o nome da pasta do java que está no formato:
 
-```/usr/lib/jvm/java-<versao instalada>/openjdk-amd-64```
+```/usr/lib/jvm/java-<versao instalada>-openjdk-amd64```
 
 * Continuando, pegue esse caminho, salve em um txt para usarmos mais para frente.
 
